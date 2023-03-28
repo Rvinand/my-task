@@ -1,0 +1,6 @@
+@use "variables" as v;
+
+body{
+  color: v.$dark;
+  font-family: v.$font-family;
+}
