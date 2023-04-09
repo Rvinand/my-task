@@ -1,9 +1,10 @@
-## Установка
+## Installation
 ```shell
+git clone https://github.com/Rvinand/my-task.git
 npm install
 ```
 
-## Запуск клиентской части
+## Launch
 ```shell
 npm start
 ```
